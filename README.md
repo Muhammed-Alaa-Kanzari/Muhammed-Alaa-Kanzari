@@ -9,12 +9,14 @@ Hey,👋 I'm **Muhammed Alaa**
 <br />
 Hi there, I'm **Muhammed Alaa Kanzari** , a **Python Enthusiast** ,a data science and a Software engineering student.
 
+**Talking about Personal Stuffs:**
+
 - 🔭 I’m currently working on Some mini projects to strengthen my foundation since i just started programming.
-- 🌱 I’m currently learning Data Science ,Machine Learning and Web Development.
+- 🌱 I’m currently learning Data Science ,Machine Learning ,Web Development and Comptetive Programming.
+- 🤔 My interests are with Comptetive Programming and all Python related subjects.
 - 👯 I’m looking to collaborate on Some Big Projects After i've gained Enough knowledge to Start them. 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via kanzari.mohamed@esprit.tn to reach me.
 
-Talking about Personal Stuffs:
 
 
