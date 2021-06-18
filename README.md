@@ -30,4 +30,4 @@ Hi there, I'm **Muhammed Alaa Kanzari** , a **Python Enthusiast** ,a data scienc
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![Muhammed's github stats](https://github-readme-stats.vercel.app/api?username=c=muhammed-alaa-kanzari&show_icons=true&hide_border=true)
+![Muhammed's github stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Alaa-Kanzari&show_icons=true&hide_border=true)
