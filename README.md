@@ -10,7 +10,7 @@ Hey,👋 I'm **Muhammed Alaa**
 Hi there, I'm **Muhammed Alaa Kanzari** , a **Python Enthusiast** ,a data science and a Software engineering student.
 
 **Talking about Personal Stuffs:**
-
+- 🔭 I Love Mathematics.
 - 🔭 I’m currently working on Some mini projects to strengthen my foundation since i just started programming.
 - 🌱 I’m currently learning Data Science ,Machine Learning ,Web Development and Comptetive Programming.
 - 🤔 My interests are with Comptetive Programming and all Python related subjects.
