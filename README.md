@@ -16,7 +16,7 @@ Hi there, I'm **Muhammed Alaa Kanzari** , a **Python Enthusiast** ,a data scienc
 - 🤔 My interests are with Comptetive Programming and all Python related subjects.
 - 👯 I’m looking to collaborate on Some Big Projects After i've gained Enough knowledge to Start them. 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via kanzari.mohamed@esprit.tn to reach me.
+- 📫 Please email via medalaakanzari@duck.com to reach me.
 
 
 **Languages and Tools:**  
