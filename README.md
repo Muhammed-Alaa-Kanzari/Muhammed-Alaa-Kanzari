@@ -9,14 +9,17 @@ Hey,👋 I'm **Muhammed Alaa**
 <br />
 Hi there, I'm **Muhammed Alaa Kanzari** , a **Python Enthusiast** ,a Software engineering student.
 
+**I'm sorry I've removed many of the projects I've worked on because I'm in the process of refining them.**
+
 **Talking about Personal Stuffs:**
 - 🔭 I Love Mathematics.
 <!-- - 🔭 I’m currently contribu -->
-- 🌱 I’m currently learning Machine Learning ,Web Development .
+- 🌱 I’m currently focsing more on Web Development .
 <!-- - 🤔 My interests are with Comptetive Programming and all Python related subjects. -->
 - 👯 I’m looking to collaborate on Some Big Projects . 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via medalaakanzari@duck.com to reach me.
+
 
 
 **Languages and Tools:**  
