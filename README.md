@@ -14,7 +14,7 @@ Hi there, I'm **Muhammed Alaa Kanzari** , a **Python Enthusiast** ,a Software en
 **Talking about Personal Stuffs:**
 - 🔭 I Love Mathematics.
 <!-- - 🔭 I’m currently contribu -->
-- 🌱 I’m currently focsing more on Web Development .
+- 🌱 I’m currently focsing more on Web Development (MERN,Django,FastAPI).
 <!-- - 🤔 My interests are with Comptetive Programming and all Python related subjects. -->
 - 👯 I’m looking to collaborate on Some Big Projects . 
 - 💬 Ask me about anything, I am happy to help;
@@ -31,6 +31,7 @@ Hi there, I'm **Muhammed Alaa Kanzari** , a **Python Enthusiast** ,a Software en
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 
 
 ![Muhammed's github stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Alaa-Kanzari&show_icons=true&hide_border=true)
