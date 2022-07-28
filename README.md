@@ -7,7 +7,7 @@
 </a>
   <br />
 <br />
-Assalamu Alaykum ,👋 I'm **Mohammed Alaa**, I'm **Muhammed Alaa Kanzari** , a **Python Enthusiast** ,a Software engineering student.
+Assalamu Alaykum 👋 ,I'm **Mohammed Alaa**, a **Python Enthusiast** ,a Software engineering student.
 
 **I'm sorry I've removed many of the projects I've worked on because I'm in the process of refining them.**
 
