@@ -16,8 +16,8 @@ I'm **Mohammed Alaa**, a **Python Enthusiast** ,a Software engineering student.
 **Talking about Personal Stuffs:**
 - 🔭 I Love Mathematics.
 <!-- - 🔭 I’m currently contribu -->
-- 🌱 I’m currently focsing more on Web Development (MERN,Django,FastAPI).
-<!-- - 🤔 My interests are with Comptetive Programming and all Python related subjects. -->
+- 🌱 I’m currently focusing more on Web Development (MERN,Django,FastAPI).
+<!-- - 🤔 My interests is pretty much everything related to programming(Web,ML,Cyber... -->
 - 👯 I’m looking to collaborate on Some Big Projects . 
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via medalaakanzari@duck.com to reach me.
