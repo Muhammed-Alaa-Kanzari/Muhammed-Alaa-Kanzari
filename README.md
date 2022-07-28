@@ -1,4 +1,6 @@
-Assalamu Alaykum 👋 , <br />
+Assalamu Alaykum 👋 ,
+
+<br />
 <a href="https://www.linkedin.com/in/muhamed-alaa-kanzari/">
   <img align="left" alt="medalaa's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
