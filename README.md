@@ -1,4 +1,4 @@
-Hey,👋 I'm **Muhammed Alaa**
+Assalamu Alaykum ,👋 I'm **Mohammed Alaa**
 <a href="https://www.linkedin.com/in/muhamed-alaa-kanzari/">
   <img align="left" alt="medalaa's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
