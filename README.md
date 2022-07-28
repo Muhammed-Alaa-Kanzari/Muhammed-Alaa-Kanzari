@@ -1,4 +1,4 @@
-Assalamu Alaykum ,👋 I'm **Mohammed Alaa**
+
 <a href="https://www.linkedin.com/in/muhamed-alaa-kanzari/">
   <img align="left" alt="medalaa's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -7,7 +7,7 @@ Assalamu Alaykum ,👋 I'm **Mohammed Alaa**
 </a>
   <br />
 <br />
-Hi there, I'm **Muhammed Alaa Kanzari** , a **Python Enthusiast** ,a Software engineering student.
+Assalamu Alaykum ,👋 I'm **Mohammed Alaa**, I'm **Muhammed Alaa Kanzari** , a **Python Enthusiast** ,a Software engineering student.
 
 **I'm sorry I've removed many of the projects I've worked on because I'm in the process of refining them.**
 
