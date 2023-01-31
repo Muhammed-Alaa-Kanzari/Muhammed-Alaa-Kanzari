@@ -1,6 +1,6 @@
 Assalamu Alaykum 👋 ,
 
-<a href="https://www.linkedin.com/in/muhamed-alaa-kanzari/">
+<a href="https://www.linkedin.com/in/mohamed-alaa-kanzari/">
   <img align="left" alt="medalaa's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://www.kaggle.com/theencyclopedian">
