@@ -50,4 +50,4 @@
 
 ## I am Mohammed Alaa Kanzari
 
-<!-- <img align=right src="https://github.com/FrancescoXX/FrancescoXX/blob/main/devcard.svg" width="200" alt="Francesco's Dev Card"/> -->
+
