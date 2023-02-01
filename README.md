@@ -1,4 +1,4 @@
-Assalamu Alaykum 👋 ,
+# Assalamu Alaykum 👋 ,
 
 <a href="https://app.daily.dev/med_Alaa"><img src="https://api.daily.dev/devcards/493062ee47bc457b8f03b99b8cd5b122.png?r=vbl" width="400" alt="Mohammed Alaa's Dev Card"/></a>
 <a href="https://www.linkedin.com/in/mohamed-alaa-kanzari/">
@@ -10,45 +10,23 @@ Assalamu Alaykum 👋 ,
   <br />
 <br />
 
-I'm **Mohammed Alaa**, a **Python Enthusiast** ,a Software engineering student.
+<div align="left">
+  <a href="https://twitter.com/Muhammed-Alaa-Kanzari">
+    <img
+      src="https://img.shields.io/twitter/follow/Muhammed-Alaa-Kanzari?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://www.linkedin.com/in/Mohamed-Alaa-Kanzari/">
+    <img
+      src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
+      alt="LinkedIn"
+    />
+  </a>
 
-**I'm sorry I've removed many of the projects I've worked on because I'm in the process of refining them.**
+  <a href="https://app.daily.dev/med_Alaa">
+  <img src="https://api.daily.dev/devcards/493062ee47bc457b8f03b99b8cd5b122.png?r=vbl" width="400" alt="Mohammed Alaa's Dev Card"/>
+  </a>
+</div>
 
-**Talking about Personal Stuffs:**
-- 🔭 I Love Mathematics.
-<!-- - 🔭 I’m currently contribu -->
-- 🌱 I’m currently focusing more on Web Development (MERN,Django,FastAPI).
-<!-- - 🤔 My interests is pretty much everything related to programming(Web,ML,Cyber... -->
-- 👯 I’m looking to collaborate on Some Big Projects . 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via medalaakanzari@duck.com to reach me.
-
-
-
-**Languages and Tools:** <br /> 
-
-**Python**<br />
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/fastapi/fastapi.png"></code>
-
-**MERN**<br />
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>
-
-**ML/AI** <br />
-<code><img height="20" src="https://pytorch.org/assets/images/pytorch-logo.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
-
-**Other techs i have worked with for a short period** <br />
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring/springboot.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aspnet/aspnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-
-
-![Muhammed's github stats](https://github-readme-stats.vercel.app/api?username=Muhammed-Alaa-Kanzari&show_icons=true&hide_border=true)
+## I am Mohammed Alaa Kanzari
