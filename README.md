@@ -1,5 +1,6 @@
 Assalamu Alaykum 👋 ,
 
+<a href="https://app.daily.dev/med_Alaa"><img src="https://api.daily.dev/devcards/493062ee47bc457b8f03b99b8cd5b122.png?r=vbl" width="400" alt="Mohammed Alaa's Dev Card"/></a>
 <a href="https://www.linkedin.com/in/mohamed-alaa-kanzari/">
   <img align="left" alt="medalaa's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
