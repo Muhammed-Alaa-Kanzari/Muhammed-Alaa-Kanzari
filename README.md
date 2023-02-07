@@ -1,9 +1,13 @@
 # Assalamu Alaykum 👋 ,
 
-<div align=center>
+<div align=center style='background:#ffa84b;border-radius:10px; padding:10px;'>
 <a href="https://twitter.com/MedAlaaKanzari">
-    <img
-      src="https://img.shields.io/twitter/follow/MedAlaaKanzari?label=Twitter&logo=twitter&style=flat-square&color=1da1f2&logoColor=ffffff"
+    <!-- <img
+      src="https://img.shields.io/twitter/follow/MedAlaaKanzari?label=Twitter&logo=twitter&style=flat-square&color=0072b1&logoColor=ffffff"
+      alt="Twitter"
+    /> -->
+     <img
+     src="https://img.shields.io/static/v1?logo=twitter&style=flat-square&color=0072b1&label=Twitter&message=%E2%98%86"
       alt="Twitter"
     />
   </a>
@@ -48,17 +52,23 @@
   </a>
 </div>
 
-## I am Mohammed Alaa Kanzari
+<h2 style='
+  background: linear-gradient(112.1deg, rgb(32, 38, 57) 11.4%, rgb(63, 76, 119) 70.2%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;'>I am Mohammed Alaa Kanzari </h2>
 
-<div align=left >
-💻 I am a highly <b style="color:#26c9fc">passionate</b> software engineer who is dedicated to turning beautiful designs into fantastic websites.
+<div align=left ' >
+💻 I am a highly <b style="color:#0e1217">passionate</b> software engineer who is dedicated to turning beautiful designs into fantastic websites.
 
 💡 My drive and love for technology is <b>only matched by my desire</b> to educate others and help them learn new skills. As an educator, 🎓 I find that teaching others helps me deepen my own understanding of the subject matter and enables me to learn multiple things simultaneously.
 
-🚀 With <span style='color:#7f00b5'>a strong focus on creativity and innovation</span>, I am always striving to find new and better ways to approach software development and deliver exceptional results.
+🚀 With <span style='color:#8100bc'>a strong focus on creativity and innovation</span>, I am always striving to find new and better ways to approach software development and deliver exceptional results.
 
 </div>
 <br />
 
-- 💬 Ask me about anything, I am happy to help;
-- 📫 Please email via medalaakanzari@duck.com to reach me.
+<ul>
+  <li>  💬 Ask me about anything, I am happy to help;
+</li>
+  <li> 📫 Please email via <a href="mailto:medalaakanzari@duck.com" style='color:#8100bc' e>medalaakanzari@duck.com</a> to reach me.</li>
+</ul>
