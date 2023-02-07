@@ -7,7 +7,7 @@
       alt="Twitter"
     />
   </a>
-  <a href="https://www.linkedin.com/in/Mohamed-Alaa-Kanzari/">
+  <a href="www.linkedin.com/in/medalaakanzari/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat-square&color=0072b1&label=LinkedIn&message=%E2%98%86"
       alt="LinkedIn"
