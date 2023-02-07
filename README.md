@@ -2,7 +2,6 @@
 
 <div align=center style='background:#ffa84b;border-radius:10px; padding:10px;'>
 <a href="https://twitter.com/MedAlaaKanzari">
-
      <img
      src="https://img.shields.io/static/v1?logo=twitter&style=flat-square&color=0072b1&label=Twitter&message=%E2%98%86"
       alt="Twitter"
