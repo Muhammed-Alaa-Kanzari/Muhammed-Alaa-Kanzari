@@ -1,4 +1,4 @@
-# Assalamu Alaykum 👋 ,
+# السلام عليكم ورحمة الله وبركاته 👋 ,
 
 <div align=center style='background:#ffa84b;border-radius:10px; padding:10px;'>
 <a href="https://twitter.com/MedAlaaKanzari">
