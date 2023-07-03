@@ -31,7 +31,7 @@
       alt="Facebook"
     />
   </a>
-  <a href="https://www.instagram.com/mohammedalaakanzari/i">
+  <a href="https://www.instagram.com/mohammedalaakanzari/">
     <img
       src="https://img.shields.io/static/v1?logo=instagram&style=flat-square&color=0072b1&label=Instagram&message=%E2%98%86"
       alt="instagram"
