@@ -13,30 +13,6 @@
       alt="LinkedIn"
     />
   </a>
-<a href="https://www.youtube.com/@medalaakanzari">
-    <img
-     src="https://img.shields.io/static/v1?logo=youtube&style=flat-square&color=0072b1&label=Youtube&message=%E2%98%86"
-      alt="Youtube"
-    />
-  </a>
-  <a href="https://discord.gg/bDEqfX79ZD">
-    <img
-      src="https://img.shields.io/static/v1?logo=discord&style=flat-square&color=0072b1&label=Discord&message=%E2%98%86"
-      alt="Discord"
-    />
-  </a>
-  <a href="https://www.facebook.com/medalaakanzari">
-    <img
-      src="https://img.shields.io/static/v1?logo=facebook&style=flat-square&color=0072b1&label=Facebook&message=%E2%98%86"
-      alt="Facebook"
-    />
-  </a>
-  <a href="https://www.instagram.com/mohammedalaakanzari/">
-    <img
-      src="https://img.shields.io/static/v1?logo=instagram&style=flat-square&color=0072b1&label=Instagram&message=%E2%98%86"
-      alt="instagram"
-    />
-  </a>
 
 <div align="left" >
 
